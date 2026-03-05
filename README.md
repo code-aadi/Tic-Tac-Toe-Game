@@ -45,7 +45,7 @@ This project allows two players to play the classic Tic Tac Toe game in the brow
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/code-aadi/tic-tac-toe.git
 ```
 
 2. Open the project folder.
@@ -59,7 +59,7 @@ git clone https://github.com/your-username/tic-tac-toe.git
 You can play the live version here:
 
 ```
-https://your-username.github.io/tic-tac-toe/
+https://tic-tac-toe-game-aadi-gold.vercel.app
 ```
 
 ---
