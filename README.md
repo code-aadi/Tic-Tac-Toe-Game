@@ -59,7 +59,7 @@ git clone https://github.com/code-aadi/tic-tac-toe.git
 You can play the live version here:
 
 ```
-https://tic-tac-toe-game-aadi-gold.vercel.app
+https://tic-tac-toe-game-aadi.vercel.app
 ```
 
 ---
